@@ -4,12 +4,12 @@ Software Engineering student building practical web projects with JavaScript.
 
 - 🎓 I'm currently strengthening my JavaScript and Git skills through hands-on independent projects. 
 - 💻 I'm a passionate programmer who enjoys building interactive web applications using HTML5,  CSS3 & JavaScript. 
-- 📍 Based in Ashford, Kent, UK
+- 📍 Based in Kent, UK
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on Kim's Game, a browser-based memory game built using HTML5, CSS3 and JavaScript.
+- 🔭 My recent project, Kim's Game, is a browser-based memory game built using HTML5, CSS3 and JavaScript.
 - 🎓 Expanding my front-end skills and planning to start learning **React**.
 - ⚡ Fun fact: I enjoy breaking down everyday problems and turning them into small coding projects.
 
