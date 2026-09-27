@@ -10,7 +10,7 @@ Software Engineering student building practical web projects with JavaScript.
 
 ## 🚀 About Me
 - 🔭 My recent project, Kim's Game, is a browser-based memory game built using HTML5, CSS3 and JavaScript.
-- 🎓 Expanding my front-end skills and planning to start learning **React**.
+- 🎓 Currently expanding my front-end skills by learning **React**.
 - ⚡ Fun fact: I enjoy breaking down everyday problems and turning them into small coding projects.
 
 ---
