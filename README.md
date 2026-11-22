@@ -2,15 +2,15 @@
 
 Software Engineering student building practical web projects with JavaScript.
 
-- 🎓 I'm currently strengthening my JavaScript and Git skills through hands-on independent projects. 
-- 💻 I'm a passionate programmer who enjoys building interactive web applications using HTML5,  CSS3 & JavaScript. 
+- 🎓 I'm currently strengthening my JavaScript and React skills through hands-on independent projects. 
+- 💻 I'm a passionate programmer who enjoys building interactive web applications using HTML5,  CSS3, JavaScript & React. 
 - 📍 Based in Kent, UK
 
 ---
 
 ## 🚀 About Me
 - 🔭 My recent project, Kim's Game, is a browser-based memory game built using HTML5, CSS3 and JavaScript.
-- 🎓 Currently expanding my front-end skills by learning **React**.
+- 🎓 Currently expanding my front-end skills by learning **React** and **TypeScript**.
 - ⚡ Fun fact: I enjoy breaking down everyday problems and turning them into small coding projects.
 
 ---
@@ -21,6 +21,9 @@ Software Engineering student building practical web projects with JavaScript.
 - JavaScript
 - Python
 - HTML5 / CSS3
+
+## Frameworks & Libraries
+- React
 
 **Tools**
 - Git
