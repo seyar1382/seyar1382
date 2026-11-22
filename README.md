@@ -22,7 +22,7 @@ Software Engineering student building practical web projects with JavaScript.
 - Python
 - HTML5 / CSS3
 
-## Frameworks & Libraries
+**Frameworks & Libraries
 - React
 
 **Tools**
